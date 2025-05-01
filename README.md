@@ -1,5 +1,5 @@
 # 📚 Java Library Management System
-**By Bachir SOUFiA**  
+**Developer**: Bachir SOUFIA (bachirsf4@gmail.com) ,group :2
 📧 bachirsf4@gmail.com
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
@@ -36,4 +36,16 @@ classDiagram
 │   └── utils/        # Helpers
 └── README.md
 ```
+### Program Menu Guide
+| Option | Action                          | Example Usage                  |
+|--------|---------------------------------|--------------------------------|
+| 1      | Add new book                    | Enter title, author, ISBN      |
+| 2      | Add new borrower                | Student ID, name               |
+| 3      | Borrow a book                   | Book ISBN + borrower ID        |
+| 4      | Return a book                   | Book ISBN to return            |
+| 5      | Search books                    | By title/author/ISBN           |
+| 6      | View all books                  | Shows complete catalog         |
+| 7      | View all borrowers              | Lists registered users         |
+| 8      | View borrowing history          | Shows all loans                |
+
 
